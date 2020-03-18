@@ -81,5 +81,5 @@ int main() {
 	root = deleteNode(root, 30);
 	root = deleteNode(root, 48);
 	preorder(root);
-
+	printf("hi");
 }
